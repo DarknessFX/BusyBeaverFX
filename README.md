@@ -20,7 +20,7 @@ Just a fun BusyBeaver project using C++20 multithread and DearImGui(+SDL).
 
 ## About
 
-Many years ago I watched <a href="https://www.youtube.com/watch?v=CE8UhcyJS0I" target="_blank">Busy Beaver Turing Machines - Computerphile</a> and I tought that it would be a fun project to do using multithreads, recently I read <a href="http://modernescpp.com/index.php/component/jaggyblog/performancecomparison-of-condition-variables-and-atomics-in-c-20" target="_blank">Performance Comparison of Condition Variables and Atomics in C++20</a> and the C++20 AtomicFlag (from pingPongAtomicFlag.cpp sample) looked so easy and simple that I have to take a few hours to have fun developing this BusyBeaver project (and to share too).<br/><br/>
+Many years ago I watched <a href="https://www.youtube.com/watch?v=CE8UhcyJS0I" target="_blank">Busy Beaver Turing Machines - Computerphile</a> and I tought that it would be a fun project to do using multithreads, recently I read <a href="http://modernescpp.com/index.php/component/jaggyblog/performancecomparison-of-condition-variables-and-atomics-in-c-20" target="_blank">Performance Comparison of Condition Variables and Atomics in C++20</a> and the C++20 AtomicFlag (from pingPongAtomicFlag.cpp sample) looked so easy and simple that I had to take a few hours to have fun developing this BusyBeaver project (and to share too).<br/><br/>
 
 Project info/blog at <a href="https://dfx.lv/TimelapseFX" target="_blank">https://dfx.lv/BusyBeaverFX</a> .<br/><br/>
 
